@@ -1,0 +1,5 @@
+Get information about the host machine the client is on
+- Get System Information
+- Get Network Information
+- Get Geographic Location
+
